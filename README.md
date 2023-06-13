@@ -4,17 +4,17 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 \[Vet Clinic\] ](#-vet-clinic-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -73,6 +73,11 @@ This is a project about creating the data structure for a vet clinic using a rel
 
 - GitHub: [jedda](https://github.com/jeddaa)
 - LinkedIn: [Fatihah Oduwole](https://linkedin.com/in/fatihahoduwole)
+
+👤 **Author2**
+
+- GitHub: [jedda](https://github.com/rosemutai)
+- LinkedIn: [Fatihah Oduwole](https://linkedin.com/in/rosemutai)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
