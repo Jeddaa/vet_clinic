@@ -59,9 +59,14 @@ This is a project about creating the data structure for a vet clinic using a rel
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- Use [schema.sql](./schema.sql) to create all tables.
+-Created ndexes for the visit table
+
+- Improved the execution time of query on the visit table
+- **[Animals escape attempt]**
+- **[directory for animals clinic]**
+<!-- - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,6 +116,6 @@ I would like to thank the code reviewers at Microverse for their amazing contrib
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/ikennarichard/Vet-clinic/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Jeddaa/vet_clinic/blob/develop/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
