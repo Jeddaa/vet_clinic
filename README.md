@@ -4,17 +4,17 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 \[Vet Clinic\] ](#-vet-clinic-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -59,9 +59,14 @@ This is a project about creating the data structure for a vet clinic using a rel
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- Use [schema.sql](./schema.sql) to create all tables.
+-Created ndexes for the visit table
+
+- Improved the execution time of query on the visit table
+- **[Animals escape attempt]**
+- **[directory for animals clinic]**
+<!-- - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,6 +78,11 @@ This is a project about creating the data structure for a vet clinic using a rel
 
 - GitHub: [jedda](https://github.com/jeddaa)
 - LinkedIn: [Fatihah Oduwole](https://linkedin.com/in/fatihahoduwole)
+
+👤 **Author2**
+
+- GitHub: [jedda](https://github.com/rosemutai)
+- LinkedIn: [Fatihah Oduwole](https://linkedin.com/in/rosemutai)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,6 +116,6 @@ I would like to thank the code reviewers at Microverse for their amazing contrib
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/ikennarichard/Vet-clinic/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Jeddaa/vet_clinic/blob/develop/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
