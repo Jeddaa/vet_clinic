@@ -59,14 +59,8 @@ This is a project about creating the data structure for a vet clinic using a rel
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
--Created ndexes for the visit table
-
-- Improved the execution time of query on the visit table
-- **[Animals escape attempt]**
-- **[directory for animals clinic]**
-<!-- - Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. -->
+- created a database called clinic
+- created the tables and relationship tables using the schema_based_on_diagram.sql file
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
